@@ -1,0 +1,53 @@
+{
+  "persons": {
+    "students": [
+      {
+        "name": {
+          "first": "Vadim",
+          "last": "Efremov"
+        },
+        "email": "vadim.efremov@gmail.com",
+        "phone": "+3 (063) 443-3504",
+        "address": "359 Lenina Street, Kharkov, Ukraine"
+      },
+      {
+        "name": {
+          "first": "Daniil",
+          "last": "Polyakov"
+        },
+        "email": "daniil.polyakov@gmail.com",
+        "phone": "+3 (050) 563-3240",
+        "address": "52 Newtona, Kharkov, Ukraine"
+      },
+      {
+        "name": {
+          "first": "Sergey",
+          "last": "Korg"
+        },
+        "email": "sergei.korz@gmail.com",
+        "phone": "+3 (099) 472-2774",
+        "address": "108 Khreschatik, Kiev, Ukraine"
+      },
+      {
+        "name": {
+          "first": "Aleksandra",
+          "last": "Tenyakova"
+        },
+        "email": "alko89@gmail.com",
+        "phone": "+3 (099) 434-3274",
+        "address": "10 Ilinskaya, Sumy, Ukraine"
+      }
+    ],
+    "teacher": [
+      {
+        "name": {
+        "first": "Dmytro",
+        "last": "Degtyarev"
+        },
+      "email": "dmytro85@gmail.com",
+      "phone": "+3 (077) 443-3504",
+      "address": "Derevyanko, Kharkov, Ukraine"
+       }
+  ]
+}
+}
